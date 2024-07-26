@@ -1,0 +1,167 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 90%;
+    margin: auto;
+    background-color: antiquewhite;
+}
+
+.main {
+    text-transform: capitalize;
+
+}
+
+span {
+    font-weight: lighter;
+}
+
+.logo {
+    background-color: white;
+    padding: 10px;
+}
+
+.nav {
+    background-color: black;
+    color: white;
+}
+
+li {
+    display: inline-block;
+    padding: 10px;
+}
+
+.header {
+    background-color: rgb(130, 255, 47);
+    text-align: center;
+    padding: 120px 0;
+    color: white;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.main2 {
+    display: flex;
+    padding: 10px;
+}
+
+h3 {
+    font-size: 30px;
+    font-weight: 100;
+}
+
+.about {
+    width: 35%;
+    justify-content: space-between;
+    margin-right: 80px;
+    background-color: white;
+    padding: 40px;
+}
+
+.company {
+    width: 34%;
+    justify-content: space-between;
+    margin-right: 50px;
+    background-color: white;
+    padding: 40px;
+}
+
+.services {
+    width: 35%;
+    justify-content: space-between;
+    background-color: white;
+    padding: 20px;
+    margin-left: 40px;
+}
+
+.main3 {
+    background-color: white;
+    display: flex;
+}
+
+.con {
+    width: 66%;
+    padding: 20px;
+}
+
+h4 {
+    font-size: 30px;
+}
+
+h5 {
+    font-size: 20px;
+}
+
+h6 {
+    font-size: 20px;
+    padding-top: 20px;
+}
+
+.nav2 {
+    background-color: grey;
+    height: 80%;
+    display: inline;
+    margin-top: 50px;
+    width: 30%;
+    margin: 40px;
+}
+
+ul {
+    padding: 20px;
+}
+
+.galary{
+    padding: 40px 0;
+    text-align: center;
+    font-weight: 900;
+    font-size: 30px;
+}
+
+.footer{
+    text-align: center;
+    display: flex;
+}
+
+.footer1{
+    width: 25%;
+    background-color: aqua;
+    padding: 40px 0;
+}
+
+.footer2{
+    width: 25%;
+    background-color:chartreuse;
+    padding: 40px 0;
+}
+
+.footer3{
+    width: 25%;
+    background-color:rgb(255, 174, 0);
+    padding: 40px 0;
+}
+
+.footer4{
+    width: 25%;
+    background-color:crimson;
+    padding: 40px 0;
+}
+
+.end{
+    display: flex;
+    background-color: white;
+    padding: 20px 0;
+}
+
+.end1{
+    padding-left: 10px;
+    width:50%
+}
+
+.end2{
+    color: chartreuse;
+    padding-left: 120px;
+    width:50%
+}
